@@ -3,7 +3,7 @@
 * Repository to practice Git & Github commands, get familiar with Markdown
 > Case where I'd like to comment @username-max91
 
-* [Google](http://google.com)
-* [Node.js](https://nodejs.org)
+1. [Google](http://google.com)
+2. [Node.js](https://nodejs.org)
 
 ![Logo](images/git_icon.png)
