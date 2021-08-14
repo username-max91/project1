@@ -1,6 +1,6 @@
 ## This is 'h2' **header**
 
-- New bullet of unordered list
+* Repository to practice Git & Github commands, get familiar with Markdown
 > Case where I'd like to comment @username-max91
 
 * [Google](http://google.com)
