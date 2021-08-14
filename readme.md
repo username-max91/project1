@@ -5,3 +5,5 @@
 
 * [Google](http://google.com)
 * [Node.js](https://nodejs.org)
+
+![Logo](images/git_icon.png)
